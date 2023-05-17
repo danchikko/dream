@@ -1,0 +1,24 @@
+.MainHeaderContainer {
+    display: flex;
+
+}
+
+.ul-callon {
+    display: flex;
+    list-style: none;
+}
+
+.register-block {
+    display: flex;
+}
+
+.entrance {
+    width: 160px;
+    height: 30px;
+    border-radius: 16px;
+    background-color: blue;
+}
+
+.registration {
+
+}

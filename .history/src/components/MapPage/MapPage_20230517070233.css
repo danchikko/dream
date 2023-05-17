@@ -1,0 +1,44 @@
+.mapPageContainer {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    border-radius: 1px solid red;
+    background-color: #7D1111;
+    left: 100px;
+    bottom: -100px;
+    margin-bottom: -500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: ;
+}
+
+.TitleContact {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.mapLogo {
+    width: 200px;
+    height: 200px;
+}
+
+.ContactBlock {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 30px;
+}
+
+.Mail {
+    list-style: none;
+    color: rgb(255, 253, 253);
+    cursor: pointer;
+}
+
+.address {
+    color: white;
+}
+

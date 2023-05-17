@@ -1,0 +1,5 @@
+const MapPage = () => {
+    const defaultProps = {
+        
+    }
+}

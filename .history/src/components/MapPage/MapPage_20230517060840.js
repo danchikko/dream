@@ -1,0 +1,3 @@
+const MapPage = () => {
+    const default
+}

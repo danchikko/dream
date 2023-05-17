@@ -1,0 +1,12 @@
+.container {
+    margin: 0 auto;
+    text-align: center;
+    width: 12;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}

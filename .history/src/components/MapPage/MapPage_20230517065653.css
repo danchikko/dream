@@ -1,0 +1,24 @@
+.mapPageContainer {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    border-radius: 1px solid red;
+    background-color: #7D1111;
+    left: 100px;
+    bottom: -100px;
+    margin-bottom: -500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.TitleContact {
+    
+}
+
+.mapLogo {
+    width: 200px;
+    height: 200px;
+}
+

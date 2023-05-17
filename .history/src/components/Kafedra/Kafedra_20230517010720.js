@@ -1,0 +1,5 @@
+const Kafedra = () => {
+    return (
+        
+    )
+}
